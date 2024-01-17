@@ -5,7 +5,7 @@ Initially i was going to make a game using PICO-8 because i was very familiar wi
 
 So i did! i used [CoderGopher's](https://www.youtube.com/@codergopher8270) tutorial on how to set up SDL2 with Sublime Text (very good tutorial by the way) and after i set it up i just went on for 4 whole days to make this game!
 
-The reason it took 4 days was because i was learning to use SDL2 and also a very not nice thing known as ****PROCRASTINATION***, and the pixel art was a little difficult to make as i was kind of new to the pixel art scene.
+The reason it took 4 days was because i was learning to use SDL2 and also a very not nice thing known as ***PROCRASTINATION***, and the pixel art was a little difficult to make as i was kind of new to the pixel art scene.
 
 The libraries i used were [SDL2](https://www.libsdl.org/), [SLD2_image](https://github.com/libsdl-org/SDL_image) and [SDL2_mixer](https://github.com/libsdl-org/SDL_mixer).
 [SDL2_image](https://github.com/libsdl-org/SDL_image) is for rendering the pixel art and, [SDL2_mixer](https://github.com/libsdl-org/SDL_mixer) is for playing sound!
