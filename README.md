@@ -17,4 +17,6 @@ Or if you just came here to play the game you can download it from this reposito
 
 And while your at it, subscribe to my [Youtube Channel](https://www.youtube.com/@ClxcqYes)!
 
+Fun-Fact: The naming of the game was very wierd i started with **Dodga** which is the project file name and then it was **ZAQWAQ** (dont ask me why) and then i finally picked ***Galex***, has a nice touch!
+
 **ENJOY!**
