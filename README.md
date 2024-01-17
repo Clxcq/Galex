@@ -1,6 +1,6 @@
 # Galex
 
-![Alt text](/to/1.png?raw=true "Optional Title")
+![Alt text](/screenshots/1.png?raw=true "Optional Title")
 Galex is a small shoot-em-up game that i made with C++ using the [SDL2](https://www.libsdl.org/) graphics library along with [SDL2_image](https://github.com/libsdl-org/SDL_image) and [SDL2_mixer](https://github.com/libsdl-org/SDL_mixer)!
 
 Initially i was going to make a game using [PICO-8](https://www.lexaloffle.com/pico-8.php) because i was very familiar with Lua and i liked [PICO-8'](https://www.lexaloffle.com/pico-8.php)s small lightweight game engine. But i decided not to because of [PICO-8's](https://www.lexaloffle.com/pico-8.php) limitation and thought to make a game with [PICO-8](https://www.lexaloffle.com/pico-8.php) another time and instead work on a C++ game using SDL2. 
