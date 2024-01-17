@@ -1,3 +1,4 @@
+//project name is dodga cuz that was supposed to be original name lol
 #include <SDL2/SDL.h> //OH MA GOD ITS SDL!!1!!11!1!
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_mixer.h>
