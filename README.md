@@ -12,7 +12,7 @@ The libraries i used were [SDL2](https://www.libsdl.org/), [SLD2_image](https://
 
 Speaking of sound i used [JSFXR](https://sfxr.me/) which is a very easy way to make 8-bit sound effects.
 
-I compiled this using [MinGW](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/seh/x86_64-8.1.0-release-win32-seh-rt_v6-rev0.7z/download) and [Sublime-Text](https://www.sublimetext.com/), You can use the build system that is in the source code to compile the source code!
+I compiled this using [MinGW](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/seh/x86_64-8.1.0-release-win32-seh-rt_v6-rev0.7z/download) and [Sublime-Text](https://www.sublimetext.com/), You can use the build system that is in the source code (Dodga.sublime-project) to compile the source code!
 Or if you just came here to play the game you can download it from this repository OR my [itch.io](https://clxcq.itch.io/) page which you can play my other games too!
 
 And while your at it, subscribe to my [Youtube Channel](https://www.youtube.com/@ClxcqYes)!
